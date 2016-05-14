@@ -2,8 +2,8 @@
 
 ## Installation
 
-1.) Create a virtual environment and activate
-2.) Install required packages:
+1. Create a virtual environment and activate
+2. Install required packages:
 
 ```
 pip install -r requirements.txt
@@ -11,8 +11,8 @@ pip install -r requirements.txt
 
 ## Running
 
-1.) Activate virtual environment
-2.) Start jupyter
+1. Activate virtual environment
+2. Start jupyter
 
 ```
 jupyter notebook
