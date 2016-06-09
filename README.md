@@ -1,5 +1,11 @@
 # Development Notes
 
+## System Requirements
+
+```
+sudo apt-get install graphviz postgresql9.4
+```
+
 ## Installation
 
 1. Create a virtual environment and activate
